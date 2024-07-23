@@ -27,7 +27,7 @@
     "kill-port": "^1.6.0",
     "node-tcp-proxy": "0.0.15",
     "rtsp-streaming-server": "^2.0.6",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "socket.io-client": "^2.4.0",
     "sqlite-sync": "^0.3.9",
     "udp-proxy": "^1.2.0"
